@@ -1,0 +1,7 @@
+EMP1 : 
+    - How to store date in mongodb 
+    - learn about dayjs and moment 
+    - how to used virtual field
+
+EMP2 & DEPT2 : 
+    - Learn about populate in virtual

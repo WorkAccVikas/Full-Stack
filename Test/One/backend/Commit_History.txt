@@ -1,0 +1,6 @@
+1. Basic Sample Code for server running     
+    - Route 
+        - / : Home 
+        - /healthCheck : Health Check
+
+2. Resolve bug in .env.sample
